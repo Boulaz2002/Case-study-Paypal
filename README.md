@@ -1,4 +1,12 @@
 ---
+marp: true
+theme: gaia
+color: #000
+colorSecondary: #333
+backgroundColor: #fff
+backgroundImage: url('https://marp.app/assets/hero-background.jpg')
+paginate: true
+---
 # CASE STUDY - PayPal
 ---
 ## Overview and Origin
@@ -25,7 +33,7 @@ In March 2000, Confinity merged with x.com, an online financial service company 
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+---
 
 ## Landscape:
 
@@ -34,7 +42,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
 * What are the other major companies in this domain?
-
+---
 
 ## Results
 
@@ -43,7 +51,7 @@ What solution does this company offer that their competitors do not or cannot of
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
-
+---
 
 ## Recommendations
 
@@ -54,3 +62,4 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+---
