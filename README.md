@@ -106,14 +106,21 @@ Their developper team would need to find a script, to fix this issue
 
 
 https://www.webfx.com/blog/web-design/online-payment-systems/
+
 https://about.pypl.com/home/default.aspx
+
 https://www.statista.com/statistics/277841/paypals-total-payment-volume/
+
 https://www.paypal.com/us/business
+
 https://about.pypl.com/home/default.aspx
+
 https://en.wikipedia.org/wiki/PayPal#Early_history
-https://sdk.finance/how-to-build-a-paypal-like-payment-platform/
+
+https://sdk.finance/
+how-to-build-a-paypal-like-payment-platform/
+
 https://www.usnews.com/360-reviews/credit-card-processing/paypal
+
 https://financialwellness.org/paypal-pros-cons-review
 
-
----
