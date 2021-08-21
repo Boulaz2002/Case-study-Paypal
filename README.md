@@ -32,18 +32,19 @@ Once you set up a PayPal account with your bank account or credit card, you can 
 Retailers, e-commerce stores, and even restaurants who use the platform can attract customers with faster checkout, giving them an advantage over their competition. But that’s not the only benefit for business owners. PayPal’s merchant services are a fantastic way to keep things organized. 
 
 
-PayPal in numbers
-305 million active accounts
+### PayPal in numbers
 
-22 million active merchant accounts
+* 305 million active accounts
 
-$17.8 billion in total revenue in 2019
+* 22 million active merchant accounts
 
-12.4 billion payment transactions in 2019
+* $17.8 billion in total revenue in 2019
 
-Supports 100+ currencies 
+* 12.4 billion payment transactions in 2019
 
-Available in 200+ markets worldwide
+* Supports 100+ currencies 
+
+* Available in 200+ markets worldwide
 
 According to McKinsey, the global payment market revenue in 2019 was $1.9 trillion and is expected to grow by 6% per annum to $2.7 trillion in 2023. Customers are increasingly turning to nonbank financial providers like PayPal for functionality traditional banking services do not provide. 
 
@@ -101,3 +102,18 @@ The only thing I don't like in Paypal is the fact that they move you away from m
 I think they need to find a way to integrate PayPal checkout in any marchant website, without moving the customer.
 Their developper team would need to find a script, to fix this issue
 
+---
+
+
+https://www.webfx.com/blog/web-design/online-payment-systems/
+https://about.pypl.com/home/default.aspx
+https://www.statista.com/statistics/277841/paypals-total-payment-volume/
+https://www.paypal.com/us/business
+https://about.pypl.com/home/default.aspx
+https://en.wikipedia.org/wiki/PayPal#Early_history
+https://sdk.finance/how-to-build-a-paypal-like-payment-platform/
+https://www.usnews.com/360-reviews/credit-card-processing/paypal
+https://financialwellness.org/paypal-pros-cons-review
+
+
+---
