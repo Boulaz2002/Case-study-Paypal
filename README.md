@@ -103,7 +103,7 @@ I think they need to find a way to integrate PayPal checkout in any marchant web
 Their developper team would need to find a script, to fix this issue
 
 ---
-
+# References
 
 https://www.webfx.com/blog/web-design/online-payment-systems/
 
