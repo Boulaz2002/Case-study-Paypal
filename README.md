@@ -1,5 +1,6 @@
+---
 # CASE STUDY - PayPal
-
+---
 ## Overview and Origin
 
 * Name of company
@@ -14,7 +15,7 @@ In March 2000, Confinity merged with x.com, an online financial service company 
 * How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
-
+---
 
 ## Business Activities:
 
