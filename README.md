@@ -37,7 +37,7 @@ Once you set up a PayPal account with your bank account or credit card, you can 
 Retailers, e-commerce stores, and even restaurants who use the platform can attract customers with faster checkout, giving them an advantage over their competition. But that’s not the only benefit for business owners. PayPal’s merchant services are a fantastic way to keep things organized. 
 
 
-### PayPal in numbers
+#### PayPal in numbers
 
 * 305 million active accounts
 
@@ -102,11 +102,43 @@ that's what make PayPal one of the most preferable payment system.
 ---
 
 ## Recommendations
+While Paypal is one of the best in the payment system market, they still have some service to fix so they will better take care of they customers.
 
-The only thing I don't like in Paypal is the fact that they move you away from marchant website at checkout.
-I think they need to find a way to integrate PayPal checkout in any marchant website, without moving the customer.
-Their developper team would need to find a script, to fix this issue
+1. Customer service
 
+When your livelihood is on the line, you need a payment gateway that can provide immediate support.
+Currently, their available support channels include phone support, asking a question in their forum, or via email. 
+While they do offer a forum in which community members can presumably be available at any time, it’s not the same thing as receiving official support, something they acknowledge in a disclaimer out of the gate when you access the community page. Therefore, information in there should be taken with a grain of salt.
+Their phone hours also aren’t comparable
+
+2. Dispute and Chargeback Fees
+
+Chargebacks are painful for everyone involved. When a customer initiates a chargeback, you can anticipate more than payment in limbo — you’re also going to encounter additional fees.
+PayPal’s chargebacks and associated fees include unauthorized transactions, item not received complaints, and complaints about items significantly deviating from the description.
+
+When they initiate a chargeback, the amount gets refunded to the customer, and the credit card network tacks the merchant with up to a $20.00 fee. (Fortunately, this fee is refunded if they later rule the case in your favor.)
+
+Stripe, on the other hand, takes a far more straight-cut approach and categorizes disputes simply as chargebacks in their documentation.
+
+3. Checkout Experience
+
+Your checkout experience directly impacts your user experience and website usability: too much, in fact, not to evaluate it closely.
+PayPal is little complicated. Here’s what I mean. Let’s say we want to buy this book from Barnes & Noble. After adding it to our cart, we bounce over to the checkout section.
+But instead of going through the on-site checkout process, we click the PayPal button. This launches a new lightbox-type popup that we have to wait for before we can log in. I mention waiting because I tried this on a few different major retail sites, and several of them took more than ten seconds to load the new window. Barnes & Noble was by far the fastest.
+
+The potential for additional load times is worth bearing in mind when evaluating the checkout process: users are notably impatient. Simply put, the longer a page takes to load, the higher the bounce rate and or shopping cart abandonment climbs. And, they don’t usually afford you much leeway by browsing other pages in the meantime.
+
+In fact, after a page surpasses the three-second mark, your page views plummet. So the additional load time between pages could end up killing your conversions if it goes on long enough.
+But, returning to our process, once it does load, we’re tasked with logging in. You may skip this screen if the user opts to stay logged in permanently.
+After that, we have to sort through our payment methods before clicking through again.
+We’re not done after we click the “continue” button, though. Add another click to get through this “Agree & Continue” screen.
+Where we end up back at the checkout page, still not done with our order.
+All in all, PayPal added five extra clicks to our process while taking us away from the checkout page. However, this can vary based on how you have PayPal configured and what payments you’re accepting. PayPal does offer additional solutions and integrations to accept credit cards right from your own site.
+Although these additional steps are admittedly small and may not seem like much, there’s a wealth of scientific evidence that suggests they could be hitting your bottom line.
+Known as Hick’s law, research finds that the fewer factors users have to think about when making a decision, the more likely they are to follow through with making said decision. Which means the more steps a customer has to go through, the more likely you are to end up with an abandoned cart.
+Over 75% of carts get abandoned across different industries, so anything you can do to save a cart is worth doing — or in this case, worth avoiding.
+While PayPal does offer checkout solutions on your own site, this varies based on payments you’re accepting and which type of PayPal account you have.
+ 
 ---
 # References
 
@@ -128,3 +160,4 @@ https://www.usnews.com/360-reviews/credit-card-processing/paypal
 
 https://financialwellness.org/paypal-pros-cons-review
 
+https://kinsta.com/blog/stripe-vs-paypal/
