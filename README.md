@@ -6,13 +6,18 @@
 
 ## Overview and Origin
 
-Paypal is the world's most widely used payment acquirer, processing over $936billion in payment in 2020. More than 28 milliom merchants and 325 million active account holders use Paypal.  Paypal was originally established by Max Levchin, Peter Thiel, and Luke Nosek in December 1998 as Cofinity, a company that developed security software for handheld devices. It had no success with that business model, however it focus to a digital wallet. Cofinity launch the first version of the PayPal electronic payment in 1999. In March 2000, Confinity merged with x.com, an online financial service company founded in March 1999 by Elon Musk. In October 2000, Musk decided that X.com would terminate its other internet banking operations and focus on PayPal, x.com was renamed PayPal in 2001 and went public in 2002. PayPal's IPO listed under the ticker PYPL at $13 per share and generated over $61 million.
+Paypal is the world's most widely used payment acquirer, processing over $936billion in payment in 2020. More than 28 milliom merchants and 325 million active account holders use Paypal.  Paypal was originally established by **Max Levchin**, **Peter Thiel** , and **Luke Nosek** in December 1998 as Cofinity, a company that developed security software for handheld devices. It had no success with that business model, however it focus to a digital wallet. Cofinity launch the first version of the PayPal electronic payment in 1999. In March 2000, Confinity merged with x.com, an online financial service company founded in March 1999 by **Elon Musk**. In October 2000, Musk decided that X.com would terminate its other internet banking operations and focus on PayPal, x.com was renamed PayPal in 2001 and went public in 2002. PayPal's IPO listed under the ticker PYPL at $13 per share and generated over $61 million.
 
 ---
 
 ## Business Activities:
 
-The payments industry has three key factions that make the whole system run as well as it does.Those factions are the payment card networks (dominated by Visa and Mastercard, with American Express a distant third), the banks and the merchants/retailers. The card networks oversee the payment rails (i.e. how payments are processed) that banks leverage when they issue credit cards and debit cards to consumers and businesses. Merchants and retailers use the card networks’ payment rails to transact commerce with consumers. When a consumer buys something from a merchant or retailer, the merchant’s bank requests payment from the consumer’s bank. In order to handle this request, the consumer’s banks charges the merchant bank an interchange fee (at 1.5% + plus 10 cents per transaction). Because the entire transaction takes place on top of the Visa or Mastercard’s payment rails, an assessment fee (at 2.5–3%) is charged to the merchant bank. This process happens every time you swipe or dip your card in-store or input your credit card or debit card information online. 
+The payments industry has three key factions that make the whole system run as well as it does.Those factions are :
+* The payment card networks (dominated by Visa and Mastercard, with American Express a distant third), 
+* The banks
+* The merchants/retailers
+
+The card networks oversee the payment rails (i.e. how payments are processed) that banks leverage when they issue credit cards and debit cards to consumers and businesses. Merchants and retailers use the card networks’ payment rails to transact commerce with consumers. When a consumer buys something from a merchant or retailer, the merchant’s bank requests payment from the consumer’s bank. In order to handle this request, the consumer’s banks charges the merchant bank an interchange fee (at 1.5% + plus 10 cents per transaction). Because the entire transaction takes place on top of the Visa or Mastercard’s payment rails, an assessment fee (at 2.5–3%) is charged to the merchant bank. This process happens every time you swipe or dip your card in-store or input your credit card or debit card information online. 
 Understanding the terms and interactions above is necessary in understanding how the payments ecosystem works and, more importantly, how to innovate in that ecosystem and gain a competitive advantage. There are really only two paths to innovating in payments:
 
 * Building on top of credit cards (and the card networks)
@@ -117,8 +122,7 @@ https://about.pypl.com/home/default.aspx
 
 https://en.wikipedia.org/wiki/PayPal#Early_history
 
-https://sdk.finance/
-how-to-build-a-paypal-like-payment-platform/
+https://sdk.finance/how-to-build-a-paypal-like-payment-platform/
 
 https://www.usnews.com/360-reviews/credit-card-processing/paypal
 
